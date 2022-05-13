@@ -1,2 +1,2 @@
-# avabob
-change discord pfp over time
+# avabot
+change discord pfp\avatar over time
